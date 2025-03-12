@@ -7,7 +7,7 @@ my favorite projects lately have been using **Kotlin** in android studio, as it'
   i've also been learning a lot about the **UE5 game engine**, and am expanding into learning **Godot** as well!
 
 if you'd like to hear a little more about what i've been doing in my day-to-day, feel free to reach out on linkedin/through email.
-  email being---><ins>evaskaufman@gmail.com</ins>
+  email being --><ins>evaskaufman@gmail.com</ins>
 ✨thank you for reading and have a lovely day!✨
 <!--
 **ekksttasy/ekksttasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
