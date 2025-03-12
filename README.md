@@ -1,5 +1,14 @@
-## Hi there 👋
+## hello! thanks for coming to take a look at my work!
 
+at present, my time is dominated by my studies at university.
+  if my contributions look a little sparse, it's mostly because my uni repos are private (no cheating!)
+
+my favorite projects lately have been using #Kotlin# in android studio, as it's my first foray into mobile development.
+  i've also been learning a lot about the #UE5 game engine#, and am expanding into learning #Godot# as well!
+
+if you'd like to hear a little more about what i've been doing in my day-to-day, feel free to reach out on linkedin/through email.
+  email being --->    evaskaufman@gmail.com
+✨thank you for reading and have a lovely day!✨
 <!--
 **ekksttasy/ekksttasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
