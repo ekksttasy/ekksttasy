@@ -1,7 +1,6 @@
 ## hello! thanks for coming to take a look at my work!
 
-at present, my time is dominated by my studies at university.
-  if my contributions look a little sparse, it's mostly because my uni repos are private (no cheating!)
+at present, my time is dominated by personal projects & volunteering at hackathons!
 
 my favorite projects lately have been using **Kotlin** in android studio, as it's my first foray into mobile development.
   i've also been learning a lot about the **UE5 game engine**, and am expanding into learning **Godot** as well!
