@@ -3,7 +3,7 @@
 at present, my time is dominated by personal projects & volunteering at hackathons!
 
 my favorite projects lately have been a self-contained JS mobile app, [checklisting](https://github.com/ekksttasy/checklisting), for a local small business.
-  i've also been playing around with the [codecrafters](https://app.codecrafters.io/courses/shell/overview) build your own shell course!
+  i've also been playing around with some ASK skills - [1](https://github.com/ekksttasy/ASK_tesFacts), [2](https://github.com/ekksttasy/ASK_bookishAlexa) - to learn about the amazon ecosystem, and started the [codecrafters](https://app.codecrafters.io/courses/shell/overview) build your own shell course!
 
 if you'd like to hear a little more about what i've been doing in my day-to-day, feel free to reach out on linkedin/through email at <ins>evaskaufman@gmail.com</ins>
 ✨thank you for reading and have a lovely day!✨
